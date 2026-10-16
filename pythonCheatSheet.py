@@ -29,7 +29,7 @@ os.system("cls")
 #        printf("Die Zahl ist %i", Variable)
 #
 #       Python:
-#        print(f)
+#        print(f"Die Zahl ist {Variable}")
 
 print(eineZahl)
 
