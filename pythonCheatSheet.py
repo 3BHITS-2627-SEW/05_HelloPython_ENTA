@@ -43,3 +43,5 @@ print("Zahl lautet %i \n und ist cool!", eineZahl)
 
 einText = f"Zahl lautet {eineZahl} \n und ist cool!"
 print(einText)
+
+print("hi")
